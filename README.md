@@ -37,7 +37,7 @@ The project is a Java Swing desktop application organized into the following com
 * **MySQL Database Server:** To host the local database.
 * **MySQL JDBC Driver (mysql-connector-j):** Required for the Java application to communicate with the MySQL database. You must download the `.jar` file and add it to the project's libraries.
 
-
+https://drive.google.com/file/d/1RN_Exq2N-7Un_zhK59-tz0uPU9DV5SG9/view?usp=sharing
 
 
 
