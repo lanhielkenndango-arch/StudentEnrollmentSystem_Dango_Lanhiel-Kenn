@@ -36,3 +36,8 @@ The project is a Java Swing desktop application organized into the following com
 * **Java Development Kit (JDK):** Version 8 or higher to compile and run the Java code.
 * **MySQL Database Server:** To host the local database.
 * **MySQL JDBC Driver (mysql-connector-j):** Required for the Java application to communicate with the MySQL database. You must download the `.jar` file and add it to the project's libraries.
+
+
+
+
+
