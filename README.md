@@ -2,15 +2,15 @@
 
 ## The Project Structure
 The project is a Java Swing desktop application organized into the following components:
-* **Main Entry Point:** * `StudentEnrollmentSystem.java` - The main class that launches the application.
-* **GUI Windows:** * `StudentManagementWindow.java` - Interface for Student CRUD operations.
+* **Main Entry Point:**  `StudentEnrollmentSystem.java` - The main class that launches the application.
+* **GUI Windows:**  `StudentManagementWindow.java` - Interface for Student CRUD operations.
   * `CourseManagementWindow.java` - Interface for Course CRUD operations.
   * `EnrollmentManagementWindow.java` - Interface for enrolling students into courses.
 * **Database & Data Access:**
   * `DBConnection.java` - Establishes the connection to the MySQL database.
   * `StudentDAO.java` - Contains the SQL queries to perform operations on the database.
   * `Student.java` - The object model representing a student.
-* **Custom UI Components:** * `RoundedButton.java`, `RoundedPanel.java`, `RoundedTextField.java` - Custom Java Swing classes to give the interface a modern look.
+* **Custom UI Components:**  `RoundedButton.java`, `RoundedPanel.java`, `RoundedTextField.java` - Custom Java Swing classes to give the interface a modern look.
 * **Database File:**
   * `Enrollment System.mwb` - The MySQL Workbench Entity-Relationship Diagram (ERD).
 
