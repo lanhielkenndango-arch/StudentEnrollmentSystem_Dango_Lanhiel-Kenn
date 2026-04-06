@@ -1,6 +1,6 @@
 # Student Enrollment System
 
-The Project Structure
+## The Project Structure
 The project is a Java Swing desktop application organized into the following components:
 * **Main Entry Point:** * `StudentEnrollmentSystem.java` - The main class that launches the application.
 * **GUI Windows:** * `StudentManagementWindow.java` - Interface for Student CRUD operations.
