@@ -19,7 +19,7 @@ The project is a Java Swing desktop application organized into the following com
 1. Clone or download the project files to your local computer.
 2. Open the project in your preferred Java IDE (e.g., NetBeans, Eclipse, IntelliJ IDEA).
 3. Ensure that the required dependency (MySQL JDBC Driver) is added to your project's Build Path / Libraries.
-4. Open `DBConnection.java` and update the database credentials (`root` and `SkennMYpets0025`) to match your local MySQL setup.
+4. Open `DBConnection.java` and update the database password (`your_password_here`) to match your local MySQL setup.
 5. Run the `StudentEnrollmentSystem.java` file to launch the GUI.
 
 ## How to Set Up the MySQL Database
