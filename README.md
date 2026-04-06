@@ -1,4 +1,4 @@
-Student Enrollment System
+# Student Enrollment System
 
 The Project Structure
 The project is a Java Swing desktop application organized into the following components:
